@@ -8,3 +8,5 @@ hello git!
 Hello Git!
 
 はろーぎっと
+
+ハローギット
