@@ -12,3 +12,5 @@ Hello Git!
 ハローギット
 
 aaaaaaa
+
+bbbbbbb
